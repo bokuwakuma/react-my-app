@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "../../go-chat"
+		},
+		{
+			"path": "../../go-webapp-samples"
+		},
+		{
+			"path": "../../gowork"
+		},
+		{
+			"path": "../recharts"
+		},
+		{
+			"path": "."
+		}
+	]
+}

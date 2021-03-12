@@ -25,7 +25,7 @@ export default function App() {
         <Container maxWidth="sm">
             <Box my={5}>
                 <Typography variant="h4" component="h1" gutterBottom>
-                    Example with TypeScript
+                    ねつべぇぇぇぇぇん！！！！！！
                 </Typography>
                 <ProTip />
                 <Copyright />
